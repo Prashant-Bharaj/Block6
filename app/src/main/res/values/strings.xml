@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Block6</string>
+    <string name="large_image">large image</string>
+    <string name="small_image">small image</string>
+</resources>
